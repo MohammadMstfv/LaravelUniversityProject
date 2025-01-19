@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>خوش آمدید - دانشگاه خوارزمی</title>
+    <link rel="icon" href="https://artarch.khu.ac.ir/templates/tmpl_modern01/images/main_logo.png">
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-50">
