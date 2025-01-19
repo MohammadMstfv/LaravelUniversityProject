@@ -34,4 +34,16 @@
             </main>
         </div>
     </body>
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white py-6">
+        <div class="container mx-auto px-6">
+            <div class="flex justify-between">
+                <p>&copy; 2025 دانشگاه خوارزمی. کلیه حقوق محفوظ است.</p>
+                <div class="flex gap-4">
+                    <a href="#" class="hover:text-blue-400">تماس با ما</a>
+                    <a href="#" class="hover:text-blue-400">حریم خصوصی</a>
+                </div>
+            </div>
+        </div>
+    </footer>
 </html>

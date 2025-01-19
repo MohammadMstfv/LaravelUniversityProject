@@ -57,8 +57,8 @@
             <div class="flex justify-between">
                 <p>&copy; 2025 دانشگاه خوارزمی. کلیه حقوق محفوظ است.</p>
                 <div class="flex gap-4">
-                    <a href="https://artarch.khu.ac.ir/contact-us/" class="hover:text-blue-400">تماس با ما</a>
-                    <a href="https://artarch.khu.ac.ir/privacy-policy/" class="hover:text-blue-400">حریم خصوصی</a>
+                    <a href="#" class="hover:text-blue-400">تماس با ما</a>
+                    <a href="#" class="hover:text-blue-400">حریم خصوصی</a>
                 </div>
             </div>
         </div>
